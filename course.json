@@ -128,7 +128,7 @@
           "type": "instruction",
           "path": "instruction/scoring-system/scoring-system.md",
           "id": "fcb38057d6af451ebb51d09b65131b13",
-          "state": "stub",
+          "state": "stable",
           "description": "How points are awarded and the winning score."
         },
         {
