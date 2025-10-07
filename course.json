@@ -314,7 +314,7 @@
           "type": "instruction",
           "path": "instruction/court-positioning/court-positioning.md",
           "id": "f7a00d10c889430e8d68f65a0615b001",
-          "state": "stub",
+          "state": "stable",
           "description": "Optimal positioning for singles and doubles play."
         },
         {
