@@ -20,5 +20,3 @@ Tennis serves are governed by a detailed set of rules designed to ensure fair pl
 *   **Toss:** The server must toss the ball up into the air and strike it before it bounces. The toss must be a fair one, allowing the server to hit the ball cleanly.
 *   **Faults:** A serve that does not land in the service box, hits a permanent fixture (like the net post), or is a foot fault is considered a fault. Two consecutive faults result in the loss of a point.
 *   **Let:** If the serve hits the net and lands in the correct service box, it is a "let," and the serve is replayed.
-
-**Example:** Imagine a tennis player, Sarah, is serving. She
