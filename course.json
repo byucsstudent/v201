@@ -152,7 +152,7 @@
           "type": "instruction",
           "path": "instruction/faults-and-errors/faults-and-errors.md",
           "id": "f43335c963ac4941b7cd72e346716563",
-          "state": "stub",
+          "state": "stable",
           "description": "Common mistakes and violations that result in a fault."
         },
         {
