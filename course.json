@@ -121,7 +121,8 @@
           "path": "instruction/serving-rules/serving-rules.md",
           "id": "1c72776c4e09413897ac0841885a06eb",
           "state": "stable",
-          "description": "Proper serving technique and regulations."
+          "description": "Proper serving technique and regulations.",
+          "commit": "772397bd49138995676d09fbce1b41233f517077"
         },
         {
           "title": "Scoring System",
