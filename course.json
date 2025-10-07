@@ -120,7 +120,7 @@
           "type": "instruction",
           "path": "instruction/serving-rules/serving-rules.md",
           "id": "1c72776c4e09413897ac0841885a06eb",
-          "state": "stub",
+          "state": "stable",
           "description": "Proper serving technique and regulations."
         },
         {
