@@ -322,7 +322,7 @@
           "type": "instruction",
           "path": "instruction/shot-selection/shot-selection.md",
           "id": "f8e55995562849ac965aac7118b1e383",
-          "state": "stub",
+          "state": "stable",
           "description": "Choosing the right shot for different situations."
         },
         {
