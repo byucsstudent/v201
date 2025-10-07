@@ -136,7 +136,7 @@
           "type": "instruction",
           "path": "instruction/the-double-bounce-rule/the-double-bounce-rule.md",
           "id": "e2e826add6c947c085d854dc53b8b702",
-          "state": "stub",
+          "state": "stable",
           "description": "Understanding and applying the double bounce rule."
         },
         {
