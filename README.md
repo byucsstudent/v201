@@ -1,6 +1,6 @@
 # Pickleball
 
-![Pickleball Image](https://images.unsplash.com/photo-1662558992000-682f38b55a35?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80&w=800)
+![Pickleball Image](https://images.unsplash.com/photo-1517649763962-0c623066013b?w=800)
 
 Welcome to the ultimate Pickleball course! Whether you're brand new to the game or looking to sharpen your skills, this course will guide you through everything you need to know to become a confident and competitive pickleball player. From understanding the origins of this fast-growing sport to mastering advanced techniques and strategies, we've got you covered.
 
