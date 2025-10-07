@@ -1,0 +1,150 @@
+{
+  "title": "Pickleball",
+  "description": "A comprehensive guide to pickleball, covering its history, rules, strategies, injury prevention, equipment, and the costs associated with playing. This course is designed for beginners and intermediate players alike.",
+  "modules": [
+    {
+      "title": "Introduction to Pickleball",
+      "description": "Learn the origins of pickleball, its growing popularity, and the basic equipment needed to get started.",
+      "topics": [
+        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stable" },
+        { "title": "History of Pickleball", "description": "Discover the humble beginnings of this popular sport.", "path": "instruction/history-of-pickleball/history-of-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "What is Pickleball?", "description": "A clear definition and explanation of the game's core concepts.", "path": "instruction/what-is-pickleball/what-is-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Benefits of Playing Pickleball", "description": "Explore the physical, mental, and social advantages of playing pickleball.", "path": "instruction/benefits-of-playing-pickleball/benefits-of-playing-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Basic Equipment Overview", "description": "An introduction to paddles, balls, nets, and appropriate footwear.", "path": "instruction/basic-equipment-overview/basic-equipment-overview.md", "type": "instruction", "state": "stub" },
+        { "title": "Where to Play Pickleball", "description": "Finding local courts, clubs, and leagues.", "path": "instruction/where-to-play-pickleball/where-to-play-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Pickleball Terminology", "description": "Understanding common pickleball terms and jargon.", "path": "instruction/pickleball-terminology/pickleball-terminology.md", "type": "instruction", "state": "stub" },
+        { "title": "Pickleball Etiquette", "description": "Learning the unwritten rules and expected behavior on the court.", "path": "instruction/pickleball-etiquette/pickleball-etiquette.md", "type": "instruction", "state": "stub" },
+        { "title": "Pickleball Attire", "description": "Selecting appropriate clothing and footwear for pickleball.", "path": "instruction/pickleball-attire/pickleball-attire.md", "type": "instruction", "state": "stub" },
+        { "title": "Cost of Playing Pickleball", "description": "Breaking down the expenses associated with pickleball, from equipment to court fees.", "path": "instruction/cost-of-playing-pickleball/cost-of-playing-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Understanding Pickleball Ratings", "description": "Understanding the rating system and how to assess your skill level.", "path": "instruction/understanding-pickleball-ratings/understanding-pickleball-ratings.md", "type": "instruction", "state": "stub" },
+        { "title": "Joining a Pickleball Club", "description": "The benefits of joining a pickleball club and how to find one.", "path": "instruction/joining-a-pickleball-club/joining-a-pickleball-club.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "The Rules of Pickleball",
+      "description": "A detailed explanation of the official rules of pickleball, including serving, scoring, and fault conditions.",
+      "topics": [
+        { "title": "The Pickleball Court", "description": "Understanding the dimensions and lines of a pickleball court.", "path": "instruction/the-pickleball-court/the-pickleball-court.md", "type": "instruction", "state": "stub" },
+        { "title": "Serving Rules", "description": "Proper serving technique and regulations.", "path": "instruction/serving-rules/serving-rules.md", "type": "instruction", "state": "stub" },
+        { "title": "Scoring System", "description": "How points are awarded and the winning score.", "path": "instruction/scoring-system/scoring-system.md", "type": "instruction", "state": "stub" },
+        { "title": "The Double Bounce Rule", "description": "Understanding and applying the double bounce rule.", "path": "instruction/the-double-bounce-rule/the-double-bounce-rule.md", "type": "instruction", "state": "stub" },
+        { "title": "The Non-Volley Zone (Kitchen)", "description": "Rules and restrictions within the non-volley zone.", "path": "instruction/the-non-volley-zone-kitchen/the-non-volley-zone-kitchen.md", "type": "instruction", "state": "stub" },
+        { "title": "Faults and Errors", "description": "Common mistakes and violations that result in a fault.", "path": "instruction/faults-and-errors/faults-and-errors.md", "type": "instruction", "state": "stub" },
+        { "title": "Line Calls", "description": "How to make accurate line calls and resolve disputes.", "path": "instruction/line-calls/line-calls.md", "type": "instruction", "state": "stub" },
+        { "title": "Calling Timeouts", "description": "When and how to call timeouts during a game.", "path": "instruction/calling-timeouts/calling-timeouts.md", "type": "instruction", "state": "stub" },
+        { "title": "Rule Variations", "description": "Exploring common rule variations in recreational play.", "path": "instruction/rule-variations/rule-variations.md", "type": "instruction", "state": "stub" },
+        { "title": "Officiating Pickleball", "description": "Understanding the role of an official and basic officiating procedures.", "path": "instruction/officiating-pickleball/officiating-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Common Rule Misinterpretations", "description": "Addressing frequently misunderstood rules.", "path": "instruction/common-rule-misinterpretations/common-rule-misinterpretations.md", "type": "instruction", "state": "stub" },
+        { "title": "Review of Pickleball Rules", "description": "Quick review of all the rules covered in this module.", "path": "instruction/review-of-pickleball-rules/review-of-pickleball-rules.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Basic Pickleball Techniques",
+      "description": "Master the fundamental techniques of pickleball, including grip, forehand, backhand, volley, and dink shots.",
+      "topics": [
+        { "title": "Proper Grip Technique", "description": "Different grip styles and their impact on shot control.", "path": "instruction/proper-grip-technique/proper-grip-technique.md", "type": "instruction", "state": "stub" },
+        { "title": "Forehand Technique", "description": "Executing a solid and consistent forehand shot.", "path": "instruction/forehand-technique/forehand-technique.md", "type": "instruction", "state": "stub" },
+        { "title": "Backhand Technique", "description": "Developing a reliable backhand shot.", "path": "instruction/backhand-technique/backhand-technique.md", "type": "instruction", "state": "stub" },
+        { "title": "Volley Technique", "description": "Hitting the ball in the air before it bounces.", "path": "instruction/volley-technique/volley-technique.md", "type": "instruction", "state": "stub" },
+        { "title": "Dink Shot Technique", "description": "Soft shots that land in the non-volley zone.", "path": "instruction/dink-shot-technique/dink-shot-technique.md", "type": "instruction", "state": "stub" },
+        { "title": "The Serve", "description": "Mastering the underhand serve.", "path": "instruction/the-serve/the-serve.md", "type": "instruction", "state": "stub" },
+        { "title": "Third Shot Drop", "description": "The strategic importance of the third shot drop.", "path": "instruction/third-shot-drop/third-shot-drop.md", "type": "instruction", "state": "stub" },
+        { "title": "Overhead Smash", "description": "Hitting a powerful overhead shot.", "path": "instruction/overhead-smash/overhead-smash.md", "type": "instruction", "state": "stub" },
+        { "title": "Footwork Fundamentals", "description": "Proper footwork for efficient court coverage.", "path": "instruction/footwork-fundamentals/footwork-fundamentals.md", "type": "instruction", "state": "stub" },
+        { "title": "Practicing Basic Drills", "description": "Effective drills to improve your technique.", "path": "instruction/practicing-basic-drills/practicing-basic-drills.md", "type": "instruction", "state": "stub" },
+        { "title": "Common Mistakes and How to Fix Them", "description": "Identifying and correcting common technique errors.", "path": "instruction/common-mistakes-and-how-to-fix-them/common-mistakes-and-how-to-fix-them.md", "type": "instruction", "state": "stub" },
+        { "title": "Technique Review", "description": "Summary of basic pickleball techniques.", "path": "instruction/technique-review/technique-review.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pickleball Strategy and Tactics",
+      "description": "Learn basic strategies and tactics to improve your game, including court positioning, shot selection, and communication with your partner.",
+      "topics": [
+        { "title": "Court Positioning", "description": "Optimal positioning for singles and doubles play.", "path": "instruction/court-positioning/court-positioning.md", "type": "instruction", "state": "stub" },
+        { "title": "Shot Selection", "description": "Choosing the right shot for different situations.", "path": "instruction/shot-selection/shot-selection.md", "type": "instruction", "state": "stub" },
+        { "title": "Communication with Your Partner", "description": "Effective communication strategies for doubles play.", "path": "instruction/communication-with-your-partner/communication-with-your-partner.md", "type": "instruction", "state": "stub" },
+        { "title": "Playing Aggressively vs. Defensively", "description": "Knowing when to attack and when to defend.", "path": "instruction/playing-aggressively-vs-defensively/playing-aggressively-vs-defensively.md", "type": "instruction", "state": "stub" },
+        { "title": "Targeting Weaknesses", "description": "Identifying and exploiting your opponent's weaknesses.", "path": "instruction/targeting-weaknesses/targeting-weaknesses.md", "type": "instruction", "state": "stub" },
+        { "title": "Moving as a Team", "description": "Synchronized movement in doubles play.", "path": "instruction/moving-as-a-team/moving-as-a-team.md", "type": "instruction", "state": "stub" },
+        { "title": "Poaching", "description": "Understanding and executing the poaching technique.", "path": "instruction/poaching/poaching.md", "type": "instruction", "state": "stub" },
+        { "title": "Stacking", "description": "Strategic stacking formations in doubles play.", "path": "instruction/stacking/stacking.md", "type": "instruction", "state": "stub" },
+        { "title": "Anticipating Your Opponent's Shots", "description": "Reading your opponent's cues and anticipating their next move.", "path": "instruction/anticipating-your-opponents-shots/anticipating-your-opponents-shots.md", "type": "instruction", "state": "stub" },
+        { "title": "Adjusting Your Strategy", "description": "Adapting your game plan based on the opponent and the situation.", "path": "instruction/adjusting-your-strategy/adjusting-your-strategy.md", "type": "instruction", "state": "stub" },
+        { "title": "Doubles Strategy", "description": "Unique strategies for doubles play", "path": "instruction/doubles-strategy/doubles-strategy.md", "type": "instruction", "state": "stub" },
+        { "title": "Singles Strategy", "description": "Unique strategies for singles play", "path": "instruction/singles-strategy/singles-strategy.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Advanced Pickleball Techniques and Drills",
+      "description": "Refine your skills with advanced techniques and drills to take your pickleball game to the next level.",
+      "topics": [
+        { "title": "Advanced Dink Techniques", "description": "Mastering the art of the dink.", "path": "instruction/advanced-dink-techniques/advanced-dink-techniques.md", "type": "instruction", "state": "stub" },
+        { "title": "Erne Maneuver", "description": "Executing the Erne maneuver effectively.", "path": "instruction/erne-maneuver/erne-maneuver.md", "type": "instruction", "state": "stub" },
+        { "title": "ATP (Around the Post) Shot", "description": "Hitting the ball around the net post.", "path": "instruction/atp-around-the-post-shot/atp-around-the-post-shot.md", "type": "instruction", "state": "stub" },
+        { "title": "Deception and Disguise", "description": "Using deception to mislead your opponents.", "path": "instruction/deception-and-disguise/deception-and-disguise.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Spin", "description": "Adding spin to your shots for increased control and difficulty.", "path": "instruction/using-spin/using-spin.md", "type": "instruction", "state": "stub" },
+        { "title": "Blocking Aggressive Shots", "description": "Defending against powerful attacks.", "path": "instruction/blocking-aggressive-shots/blocking-aggressive-shots.md", "type": "instruction", "state": "stub" },
+        { "title": "Transitioning to the Net", "description": "Effectively moving from the baseline to the net.", "path": "instruction/transitioning-to-the-net/transitioning-to-the-net.md", "type": "instruction", "state": "stub" },
+        { "title": "Drills for Consistency", "description": "Drills to improve shot consistency and accuracy.", "path": "instruction/drills-for-consistency/drills-for-consistency.md", "type": "instruction", "state": "stub" },
+        { "title": "Drills for Speed and Agility", "description": "Drills to enhance your speed and agility on the court.", "path": "instruction/drills-for-speed-and-agility/drills-for-speed-and-agility.md", "type": "instruction", "state": "stub" },
+        { "title": "Drills for Specific Scenarios", "description": "Practicing drills for common game situations.", "path": "instruction/drills-for-specific-scenarios/drills-for-specific-scenarios.md", "type": "instruction", "state": "stub" },
+        { "title": "Partner Drills", "description": "Drills for improving partner coordination and teamwork.", "path": "instruction/partner-drills/partner-drills.md", "type": "instruction", "state": "stub" },
+        { "title": "Improving Your Reaction Time", "description": "Drills for improving your reaction time.", "path": "instruction/improving-your-reaction-time/improving-your-reaction-time.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pickleball Injury Prevention and Recovery",
+      "description": "Learn how to prevent common pickleball injuries and proper recovery techniques to stay healthy and on the court.",
+      "topics": [
+        { "title": "Warm-up Exercises", "description": "Preparing your body for pickleball with effective warm-up routines.", "path": "instruction/warm-up-exercises/warm-up-exercises.md", "type": "instruction", "state": "stub" },
+        { "title": "Cool-down Exercises", "description": "Proper cool-down techniques to aid recovery and reduce muscle soreness.", "path": "instruction/cool-down-exercises/cool-down-exercises.md", "type": "instruction", "state": "stub" },
+        { "title": "Stretching for Pickleball", "description": "Essential stretches to improve flexibility and prevent injuries.", "path": "instruction/stretching-for-pickleball/stretching-for-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Common Pickleball Injuries", "description": "Identifying common injuries and their causes.", "path": "instruction/common-pickleball-injuries/common-pickleball-injuries.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Ankle Injuries", "description": "Exercises and techniques to strengthen ankles and prevent sprains.", "path": "instruction/preventing-ankle-injuries/preventing-ankle-injuries.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Knee Injuries", "description": "Protecting your knees with proper form and strengthening exercises.", "path": "instruction/preventing-knee-injuries/preventing-knee-injuries.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Shoulder Injuries", "description": "Exercises to strengthen and stabilize your shoulders.", "path": "instruction/preventing-shoulder-injuries/preventing-shoulder-injuries.md", "type": "instruction", "state": "stub" },
+        { "title": "Preventing Elbow Injuries (Tennis Elbow)", "description": "Techniques to prevent and manage tennis elbow.", "path": "instruction/preventing-elbow-injuries-tennis-elbow/preventing-elbow-injuries-tennis-elbow.md", "type": "instruction", "state": "stub" },
+        { "title": "Proper Hydration and Nutrition", "description": "The importance of staying hydrated and eating a balanced diet.", "path": "instruction/proper-hydration-and-nutrition/proper-hydration-and-nutrition.md", "type": "instruction", "state": "stub" },
+        { "title": "Rest and Recovery", "description": "The role of rest in preventing injuries and promoting healing.", "path": "instruction/rest-and-recovery/rest-and-recovery.md", "type": "instruction", "state": "stub" },
+        { "title": "Using Braces and Supports", "description": "When and how to use braces and supports for injury prevention.", "path": "instruction/using-braces-and-supports/using-braces-and-supports.md", "type": "instruction", "state": "stub" },
+        { "title": "Recognizing Overuse Injuries", "description": "Identify overuse injuries early.", "path": "instruction/recognizing-overuse-injuries/recognizing-overuse-injuries.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Pickleball Equipment and Gear",
+      "description": "A comprehensive guide to pickleball equipment, including paddles, balls, nets, shoes, and other accessories.",
+      "topics": [
+        { "title": "Choosing the Right Paddle", "description": "Factors to consider when selecting a pickleball paddle.", "path": "instruction/choosing-the-right-paddle/choosing-the-right-paddle.md", "type": "instruction", "state": "stub" },
+        { "title": "Paddle Materials and Construction", "description": "Understanding the different materials used in paddle construction.", "path": "instruction/paddle-materials-and-construction/paddle-materials-and-construction.md", "type": "instruction", "state": "stub" },
+        { "title": "Paddle Weight and Balance", "description": "The impact of paddle weight and balance on performance.", "path": "instruction/paddle-weight-and-balance/paddle-weight-and-balance.md", "type": "instruction", "state": "stub" },
+        { "title": "Pickleball Balls", "description": "Types of pickleball balls and their characteristics.", "path": "instruction/pickleball-balls/pickleball-balls.md", "type": "instruction", "state": "stub" },
+        { "title": "Outdoor vs. Indoor Balls", "description": "Differences between outdoor and indoor pickleball balls.", "path": "instruction/outdoor-vs-indoor-balls/outdoor-vs-indoor-balls.md", "type": "instruction", "state": "stub" },
+        { "title": "Pickleball Nets", "description": "Types of pickleball nets and their specifications.", "path": "instruction/pickleball-nets/pickleball-nets.md", "type": "instruction", "state": "stub" },
+        { "title": "Footwear for Pickleball", "description": "Selecting appropriate shoes for pickleball.", "path": "instruction/footwear-for-pickleball/footwear-for-pickleball.md", "type": "instruction", "state": "stub" },
+        { "title": "Protective Gear", "description": "Using protective gear to prevent injuries.", "path": "instruction/protective-gear/protective-gear.md", "type": "instruction", "state": "stub" },
+        { "title": "Accessories", "description": "Other useful accessories for pickleball players.", "path": "instruction/accessories/accessories.md", "type": "instruction", "state": "stub" },
+        { "title": "Paddle Maintenance", "description": "Caring for your pickleball paddle to extend its lifespan.", "path": "instruction/paddle-maintenance/paddle-maintenance.md", "type": "instruction", "state": "stub" },
+        { "title": "Where to Buy Pickleball Equipment", "description": "Where to buy pickleball equipment online and in stores.", "path": "instruction/where-to-buy-pickleball-equipment/where-to-buy-pickleball-equipment.md", "type": "instruction", "state": "stub" },
+        { "title": "Equipment Regulations", "description": "Overview of official equipment regulations.", "path": "instruction/equipment-regulations/equipment-regulations.md", "type": "instruction", "state": "stub" }
+      ]
+    },
+    {
+      "title": "Capstone Project: Pickleball Tournament Simulation",
+      "description": "Integrate your knowledge and skills by participating in a simulated pickleball tournament, applying strategies, techniques, and rules learned throughout the course.",
+      "topics": [
+        { "title": "Tournament Overview", "description": "Explanation of the tournament simulation and its objectives.", "path": "instruction/tournament-overview/tournament-overview.md", "type": "instruction", "state": "stub" },
+        { "title": "Team Formation", "description": "Forming teams and strategizing with your partner.", "path": "instruction/team-formation/team-formation.md", "type": "instruction", "state": "stub" },
+        { "title": "Match Scheduling", "description": "Understanding the tournament schedule and match format.", "path": "instruction/match-scheduling/match-scheduling.md", "type": "instruction", "state": "stub" },
+        { "title": "Applying Strategies and Tactics", "description": "Implementing learned strategies and tactics during simulated matches.", "path": "instruction/applying-strategies-and-tactics/applying-strategies-and-tactics.md", "type": "instruction", "state": "stub" },
+        { "title": "Analyzing Performance", "description": "Evaluating your performance and identifying areas for improvement.", "path": "instruction/analyzing-performance/analyzing-performance.md", "type": "instruction", "state": "stub" },
+        { "title": "Adapting to Opponents", "description": "Adjusting your game plan based on your opponents' strengths and weaknesses.", "path": "instruction/adapting-to-opponents/adapting-to-opponents.md", "type": "instruction", "state": "stub" },
+        { "title": "Maintaining Sportsmanship", "description": "Demonstrating good sportsmanship throughout the tournament.", "path": "instruction/maintaining-sportsmanship/maintaining-sportsmanship.md", "type": "instruction", "state": "stub" },
+        { "title": "Reviewing Tournament Rules", "description": "Reinforcing the rules of pickleball in a competitive setting.", "path": "instruction/reviewing-tournament-rules/reviewing-tournament-rules.md", "type": "instruction", "state": "stub" },
+        { "title": "Final Tournament Matches", "description": "Simulating the final rounds of the tournament.", "path": "instruction/final-tournament-matches/final-tournament-matches.md", "type": "instruction", "state": "stub" },
+        { "title": "Post-Tournament Analysis", "description": "Reflecting on the tournament experience and lessons learned.", "path": "instruction/post-tournament-analysis/post-tournament-analysis.md", "type": "instruction", "state": "stub" },
+        { "title": "Feedback and Improvement", "description": "Receiving feedback and developing a plan for future improvement.", "path": "instruction/feedback-and-improvement/feedback-and-improvement.md", "type": "instruction", "state": "stub" },
+        { "title": "Conclusion", "description": "Concluding the pickleball course.", "path": "instruction/conclusion/conclusion.md", "type": "instruction", "state": "stub" }
+      ]
+    }
+  ]
+}
