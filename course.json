@@ -144,7 +144,7 @@
           "type": "instruction",
           "path": "instruction/the-non-volley-zone-kitchen/the-non-volley-zone-kitchen.md",
           "id": "5a1a4bada7584c799093fe2201cc11cc",
-          "state": "stub",
+          "state": "stable",
           "description": "Rules and restrictions within the non-volley zone."
         },
         {
