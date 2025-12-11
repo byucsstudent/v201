@@ -147,7 +147,7 @@
           "id": "5a1a4bada7584c799093fe2201cc11cc",
           "state": "stable",
           "description": "Rules and restrictions within the non-volley zone.",
-          "commit": "93ebd03b58cdcc0a29260e49b5738ab35145c3f3"
+          "commit": "e63eddb6b480cf4a9c9f268662f655478c6aa3e1"
         },
         {
           "title": "Faults and Errors",
