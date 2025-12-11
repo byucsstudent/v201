@@ -25,5 +25,3 @@ Several actions can result in a fault related to the non-volley zone.
 *   **Momentum into the Zone:** Even if you initially volley the ball outside the kitchen, if your momentum causes you to step into the kitchen before the ball bounces, it's a fault.
 *   **Touching the Line:** Touching the non-volley zone line while volleying is the same as being in the zone.
 *   **Dropped Items:** If you drop your paddle, hat, or any other item into the kitchen while volleying, it is considered a fault.
-
-## The "Dink"
