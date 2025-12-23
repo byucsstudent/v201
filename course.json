@@ -6,11 +6,11 @@
       "title": "Introduction to Pickleball",
       "topics": [
         {
-          "title": "Overview",
+          "title": "Overviewx",
           "type": "instruction",
           "path": "README.md",
           "id": "1025e194cdbf4161bae0633d82ce9ecf",
-          "state": "stable",
+          "state": "published",
           "description": "Course introduction and objectives.",
           "commit": "23bc575e2dcb8863e4d5d748a2b9ca40b9c46493"
         },
@@ -19,7 +19,7 @@
           "type": "instruction",
           "path": "instruction/history-of-pickleball/history-of-pickleball.md",
           "id": "62a7b811362f46c291e1a954cad1f06d",
-          "state": "stable",
+          "state": "published",
           "description": "Discover the humble beginnings of this popular sport."
         },
         {
@@ -27,7 +27,7 @@
           "type": "instruction",
           "path": "instruction/what-is-pickleball/what-is-pickleball.md",
           "id": "99135b1924d147fd9d2bc2b3db5bf3c1",
-          "state": "stable",
+          "state": "published",
           "description": "A clear definition and explanation of the game's core concepts."
         },
         {
@@ -83,7 +83,7 @@
           "type": "instruction",
           "path": "instruction/cost-of-playing-pickleball/cost-of-playing-pickleball.md",
           "id": "98d7f8eb4d94482eadca8068f1cf6ff8",
-          "state": "stable",
+          "state": "published",
           "description": "Breaking down the expenses associated with pickleball, from equipment to court fees."
         },
         {
@@ -91,7 +91,7 @@
           "type": "instruction",
           "path": "instruction/understanding-pickleball-ratings/understanding-pickleball-ratings.md",
           "id": "33eed8b2cd944852b106c8f14f6d5bb5",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding the rating system and how to assess your skill level."
         },
         {
@@ -120,7 +120,7 @@
           "type": "instruction",
           "path": "instruction/serving-rules/serving-rules.md",
           "id": "1c72776c4e09413897ac0841885a06eb",
-          "state": "stable",
+          "state": "published",
           "description": "Proper serving technique and regulations.",
           "commit": "772397bd49138995676d09fbce1b41233f517077"
         },
@@ -129,7 +129,7 @@
           "type": "instruction",
           "path": "instruction/scoring-system/scoring-system.md",
           "id": "fcb38057d6af451ebb51d09b65131b13",
-          "state": "stable",
+          "state": "published",
           "description": "How points are awarded and the winning score."
         },
         {
@@ -137,7 +137,7 @@
           "type": "instruction",
           "path": "instruction/the-double-bounce-rule/the-double-bounce-rule.md",
           "id": "e2e826add6c947c085d854dc53b8b702",
-          "state": "stable",
+          "state": "published",
           "description": "Understanding and applying the double bounce rule."
         },
         {
@@ -145,7 +145,7 @@
           "type": "instruction",
           "path": "instruction/the-non-volley-zone-kitchen/the-non-volley-zone-kitchen.md",
           "id": "5a1a4bada7584c799093fe2201cc11cc",
-          "state": "stable",
+          "state": "published",
           "description": "Rules and restrictions within the non-volley zone.",
           "commit": "e63eddb6b480cf4a9c9f268662f655478c6aa3e1"
         },
@@ -154,7 +154,7 @@
           "type": "instruction",
           "path": "instruction/faults-and-errors/faults-and-errors.md",
           "id": "f43335c963ac4941b7cd72e346716563",
-          "state": "stable",
+          "state": "published",
           "description": "Common mistakes and violations that result in a fault."
         },
         {
@@ -316,7 +316,7 @@
           "type": "instruction",
           "path": "instruction/court-positioning/court-positioning.md",
           "id": "f7a00d10c889430e8d68f65a0615b001",
-          "state": "stable",
+          "state": "published",
           "description": "Optimal positioning for singles and doubles play."
         },
         {
@@ -324,7 +324,7 @@
           "type": "instruction",
           "path": "instruction/shot-selection/shot-selection.md",
           "id": "f8e55995562849ac965aac7118b1e383",
-          "state": "stable",
+          "state": "published",
           "description": "Choosing the right shot for different situations."
         },
         {
@@ -388,7 +388,7 @@
           "type": "instruction",
           "path": "instruction/adjusting-your-strategy/adjusting-your-strategy.md",
           "id": "f4f2166bfd1f471e89033c4cceaba932",
-          "state": "stable",
+          "state": "published",
           "description": "Adapting your game plan based on the opponent and the situation."
         },
         {
